@@ -236,6 +236,7 @@
 				AA20A21D1BCCCDEE0063B768 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
